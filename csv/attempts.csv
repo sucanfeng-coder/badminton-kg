@@ -1,0 +1,4 @@
+id,student_id,week,context,skill_id,hit_count,total,score,error_tag1,error_tag2,video_url
+AT01,STU01,2,课后练习,S01,4,10,0.4,发球高度过高,手腕发力过早,http://v.com/1
+AT02,STU02,4,课堂测验,S03,3,10,0.3,击球点偏后,转体带动不足,http://v.com/2
+AT03,STU03,8,课后打卡,F04,0,0,0,上网跨步过小,,http://v.com/3
